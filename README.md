@@ -14,7 +14,7 @@ Personal project in which I analyzed the evolution of the S&P 500 stock price fo
 - warnings
 - plotly.express
 
-## <ins>Techniques/Concepts used</ins>:
+## <ins>Techniques/Concepts covered</ins>:
 
 - Importing data (glob, pd.read_csv, pd.read_json, list comprehension)
 - For loops
