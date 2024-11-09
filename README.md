@@ -1,7 +1,7 @@
 # Stock price analysis
 Personal project in which I analyzed the evolution of the S&P 500 stock price for big tech companies. The project's Jupyter Notebook is uploaded above.
 
-**Language**: Python
+**Language**: *Python*
 
 ## Packages/modules used:
 
