@@ -1,9 +1,9 @@
-# Stock price analysis
+# <ins>Stock price analysis</ins>
 Personal project in which I analyzed the evolution of the S&P 500 stock price for big tech companies. The project's Jupyter Notebook is uploaded above.
 
-**Language**: *Python*
+**<ins>Language</ins>**: *Python*
 
-## Packages/modules used:
+## <ins>Packages/modules used</ins>:
 
 - sys
 - pandas
@@ -14,7 +14,7 @@ Personal project in which I analyzed the evolution of the S&P 500 stock price fo
 - warnings
 - plotly.express
 
-## Techniques showcased:
+## <ins>Techniques showcased</ins>:
 
 - Importing data (glob, pd.read_csv, pd.read_json, list comprehension)
 - For loops
