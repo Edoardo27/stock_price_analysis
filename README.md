@@ -1,5 +1,5 @@
 # <ins>Stock price analysis</ins>
-Personal project in which I analyzed the evolution of the S&P 500 stock price for big tech companies. The project's Jupyter Notebook is uploaded above.
+Personal project in which I analyse the evolution and correlation of the stock prices of Amazon, Google, Microsoft and Apple. The project's Jupyter Notebook is uploaded above.
 
 **<ins>Language</ins>**: *Python*
 
